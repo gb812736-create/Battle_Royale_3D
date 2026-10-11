@@ -1,0 +1,8 @@
+{
+  "name":"Battle Royale 3D BD",
+  "short_name":"BR3D BD",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#101820",
+  "theme_color":"#101820"
+}
